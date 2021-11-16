@@ -1,0 +1,17 @@
+% create slider
+Min=0, max=choose, increment=1
+%create a slider
+Min=0, max=choos, increment=1
+A=(0,1)
+B=A+(a,0)
+u=Vector[A,B]
+C=B+(0,1)
+D=C+(b,0)
+V=Vector(C,D)
+R=(X(D),0)
+Z=(0,0)
+g=Segment(Z,A)
+h=Segment(B,C)
+i=Segment(D,R)
+r=a+b
+create textboxes to label
