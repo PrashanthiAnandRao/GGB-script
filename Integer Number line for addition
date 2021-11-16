@@ -1,0 +1,17 @@
+% Create slider 
+Min=--10, Max=10, increment=1
+% Create a slider
+Min=-10, max=10, Increment=1
+A=(0,1)
+B=A+(a,0)
+u=Vector[A,B]
+D=C+(b,0)
+V=Vector(C,D)
+R=(X(D),0)
+Z=(0,0)
+g=Segment(Z,A)
+h=Segment(B,C)
+i=Segment(D,R)
+r=a+b
+create text box and label
+End
