@@ -1,0 +1,8 @@
+% To check whether the given number is odd or even
+Create a slider a=1 to 50
+b=Mod(a,2)
+b=0
+Create a check box showing if b=0, then it is even otherwise it is odd
+
+
+https://www.geogebra.org/m/kdtyxtna
