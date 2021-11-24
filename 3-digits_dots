@@ -1,0 +1,14 @@
+% create a 3-digit number using dots
+Create a slider m, min=1, max=999, increment=1
+hunds=floor(m/100)
+tens=floor((m-hunds*100)/10)
+ones=m-hunds*100-tens*10
+tens+""
+ones+""
+Sequence(Sequence(Sequence(((h-1)*10+t,o),o,1,10),t,1,10),h,1,hunds)
+Sequence(Sequence((hunds*10+t,o),o,1,10),h,1,tens)
+Sequence(Segment((h*10+0.5,0.5),(h*10+0.5,10.5)),h,1,hunds)
+Sequence((hunds*10+tens+1,o),o,1,ones)
+hunds+""
+
+https://www.geogebra.org/m/ke4r4anr
