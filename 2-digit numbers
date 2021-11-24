@@ -1,0 +1,11 @@
+% Representation of a 2-digit number using dots
+Create a slider
+Name it as m whose min=1 , max= 99, increment=1
+tens=floor(m/10)
+ones= m- tens *10
+Sequence(Sequence((t,o),o,1,10),t,1,tens)
+ones+""
+Sequence((tens+1,o),o,1,ones)
+tens+""
+
+https://www.geogebra.org/m/ke4r4anr
