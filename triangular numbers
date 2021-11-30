@@ -1,0 +1,5 @@
+create a slides n=1 to 8
+Seqcir=Sequence(Sequence((x-j+i)^2+(y-i+1)^2)=0.25,i,1,j),j,1,n)
+Sequence(Sequence((x-j+1)^2+(y-i+1)^2=0.25,i,1,j),j,1,n) % creates a list
+
+https://www.geogebra.org/m/yjyv8pup
