@@ -1,0 +1,11 @@
+% Finding square of a number without actual multiplication
+Choose a slider a=1 to 9
+Choose another slider b=1 to 5
+c=Product({a,10})
+d=c+b
+e=c^2
+f=b^2
+g=2cb
+h=e+f+g
+
+https://www.geogebra.org/m/w8djtnef
