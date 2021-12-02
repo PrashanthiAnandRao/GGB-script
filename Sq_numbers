@@ -1,0 +1,10 @@
+% square of an odd number as the sum of two consecutive positive integers
+a=n %creates a slider max=100,min=1
+b=2n+1  % creates the odd number
+c=b^2  %square of odd number
+d=c-1  
+e=c+1
+f=d\2
+g=e\2
+h=f+g
+Ans=h
