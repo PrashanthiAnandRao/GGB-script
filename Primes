@@ -1,0 +1,21 @@
+% create a button
+a=RandomBetween[100,1000]
+b=RandomBetween[100,1000]
+c=RandomBetween[100,1000]
+d=RandomBetween[100,1000]
+e=RandomBetween[100,1000]
+f=PreviousPrime(a)
+g=PreviousPrime(b)
+h=PreviousPrime(c)
+i=PreviousPrime(d)
+j=PreviousPrime(e)
+k=a+1
+l=a+20
+m=a+121
+n=a+896
+p=NextPrime(k)
+q=NextPrime(l)
+r=NextPrime(m)
+s=NextPrime(n)
+create a textbox,then check box
+
