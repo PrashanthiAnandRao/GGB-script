@@ -1,0 +1,20 @@
+% To find the product of a 2-digit number with a 1-digit number
+a=1
+b=1
+c=1
+d=Product({c,b})
+e=Product({c,a})
+f=10*e
+g=d+f
+Create a tool box abxc
+Create a tool box d  then below e below g
+Step1=d
+Step2=e
+Create a input box \link:Step1=d
+Create a input box \link:Step2=e
+Ans=g
+Create a input box \Ans=g
+Create a tool box as correct answer with advanced setting-Ans=g
+Create a checkbox to show the correct answer with linking the steps of finding the product.
+
+https://www.geogebra.org/m/ktgqzaj8
