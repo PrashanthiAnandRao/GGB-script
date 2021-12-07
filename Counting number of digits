@@ -1,0 +1,9 @@
+To count the number of digits in a given natural number
+Create a slider with min=1, max=1000000000
+b=log(a)
+c=floor(b)
+d=c+1
+e=d leads to correct answer
+Check the answer using check box.
+
+https://www.geogebra.org/m/jwkygjau
