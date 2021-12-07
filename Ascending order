@@ -1,0 +1,17 @@
+Arranging the whole numbers in ascending order
+create sliders(5), min=0, max=99999
+Use a textbox to show "Input the numbers here"
+Create a input box with caption-First Number and link to a
+Create a input box with caption-Second Number and link to b
+Create a input box with caption-Third Number and link to c
+Create a input box with caption-Fourth Number and link to d
+Create a input box with caption-Fifth Number and link to e
+Use the text box to enter the numbers a,b,c,d,e
+Create a list l1={a,b,c} 
+Create another list l2={d,e}
+Use the Union command - Union(l1,l2)
+Step-12 creates a list l3
+Use the sort command to arrange in ascending order as - Sort(l3)
+Use the check box to check the answers by inserting the required texts.
+End
+https://www.geogebra.org/m/wrxtvabg
