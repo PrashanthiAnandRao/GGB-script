@@ -1,0 +1,13 @@
+Create a slider a=n from 1 to 999999999999999
+b=a+10
+c=b+10
+d=c+10
+e=d+10
+f=e+10
+g=f+10
+Create a text boxes for b,c,d,e,f,g
+Create a check box for the text boxes
+Create an input box to enter the answer
+Hide the slider.
+End
+https://www.geogebra.org/m/dnzzuh6b
