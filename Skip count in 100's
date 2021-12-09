@@ -1,0 +1,14 @@
+Skip counting in hundreds
+Create a slide a=n, min=1, max=1000000, increment=1
+b=a+100
+c=b+100
+d=c+100
+e=d+100
+f=e+100
+g=f+100
+Draw the polygons as steps
+Use textbox to represent the numbers
+Create a input box to enter the number.Link the input box with the slider
+End
+
+https://www.geogebra.org/m/zhsqewku
