@@ -1,0 +1,19 @@
+Skip count by 2's
+create a slider a with min=1, max=10, increment=1
+Hide the y-axis
+A=(2a,0)
+B=(4a,0)
+C=(6a,0)
+D=(8a,0)
+E=(10a,0)
+F=(12a,0)
+G=(14a,0)
+H=(16a,0)
+I=(18a,0)
+J=(20a,0)
+Using semicircle tool, draw a semicircle from 0 to A.
+Create the input box by linking to a to ask how many 2's we need
+Create a textbox to show how many units of 2's are there.
+End
+
+https://www.geogebra.org/m/ujgdcq5b
