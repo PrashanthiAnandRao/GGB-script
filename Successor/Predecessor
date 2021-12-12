@@ -1,0 +1,10 @@
+To find successor and predecessor of a given number
+create a slider a=n
+b=a+1
+c=a-1
+Create a textbox to show the questions
+Create an input box by linking b and c
+d=a+1 
+e=a-1
+create a check box to verify the answer
+End
