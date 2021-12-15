@@ -1,0 +1,17 @@
+Rational numbers between two integers
+create 2 sliders a and b
+create a input box for a and b
+j=a+b
+c=j/2
+k=a+c
+d=k/2
+l=d+c
+e=l/2
+m=c+e
+g=m/2
+n=a+d
+h=n/2
+p=e+b
+i=p/2
+Create textboxes to show the outputs
+End
