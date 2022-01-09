@@ -1,0 +1,15 @@
+% show the fractions using a circle
+Construct a circle with centre A and radius r=3 units
+Mark a point on the object(circle) as B
+Join AB
+Create a slider b with min=2, max=100, increment=1
+Create a slider a with min=1,max=b,increment=1
+Sequence(Segment(A,Rotate(B,f^o,A)))
+Sequence(Segment(A,Rotate(B,f^0,A))f,360^0/b,360,360/b)
+Use the tool angle with given side from B to A
+Angle=360^0a\b
+Circular arec ABB'
+Repeat step9,10 and 11 and change the colour.
+End
+
+https://www.geogebra.org/m/s7u6qq3n
