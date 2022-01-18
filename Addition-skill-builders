@@ -1,0 +1,39 @@
+a=1
+b=1
+c=1
+d=1
+e=1
+f=1
+g=1
+h=1
+i=1
+j=1
+Create a button using the command
+a=RandomBetween[0,9]
+b=RandomBetween[0,9]
+c=RandomBetween[0,9]
+d=RandomBetween[0,9]
+e=RandomBetween[0,9]
+f=RandomBetween[0,9]
+g=RandomBetween[0,9]
+h=RandomBetween[0,9]
+i=RandomBetween[0,9]
+j=RandomBetween[0,9]
+\\Use the input bar
+k=a+0
+l=b+1
+m=c+2
+n=d+3
+o=e+4
+p=f+5
+q=g+6
+r=h+7
+s=i+8
+t=j+9
+Create a text box to show k,l,m,n,o,p,q,r,s,t
+Create a input box linking k,l,m,n,o,p,q,r,s,t
+Create a text box to show correct answer by using the conditions k,l,m,n,o,p,q,r,s,t
+Create a text box to show wrong answer by using the conditions k,l,m,n,o,p,q,r,s,t
+\\end
+
+https://www.geogebra.org/m/pc4dpf8d#material/snfqxyxv
