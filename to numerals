@@ -1,0 +1,58 @@
+Create a slider for a 4-digit number
+slider a ,min=1 to max=9,increment=1
+slider b ,min=0 to max=9,increment=1
+slider c ,min=0 to max=9,increment=1
+slider d ,min=0 to max=9,increment=1
+e=1000a+100b+10c+d
+Create a text box to show "Write the numeral for the given number e"
+Create a ok button using the command
+a=RandomBetween[0,9]
+b=RandomBetween[0,9]
+c=RandomBetween[0,9]
+d=RandomBetween[0,9]
+If(a==1,"One thousand",
+  If(a==2,"Two thousand",
+    If(a==3,"Three thousand",
+      If(a==4,"Four thousand",
+        If(a==5,"Five thousand",
+          If(a==6,"Six thousand",
+            If(a==7,"Seven thousand",
+              If(a==8,"Eight thousand",
+                If(a==9,"Nine thousand","")))))))))
+ If(b==1,"One hundred",
+  If(b==2,"Two hundred",
+    If(b==3,"Three hundred",
+      If(b==4,"Four hundred",
+        If(b==5,"Five hundred",
+          If(b==6,"Six hundred",
+            If(b==7,"Seven hundred",
+              If(b==8,"Eight hundred",
+                If(b==9,"Nine hundred","")))))))))
+  If(c==2,"twenty",
+    If(c==3,"thirty",
+      If(c==4,"forty",
+        If(c==5,"fifty",
+          If(c==6,"sixty",
+            If(c==7,"seventy",
+              If(c==8,"eighty",
+                If(c==9,"ninety",""))))))))
+ If(d==1,"one",
+  If(d==2,"two",
+    If(d==3,"three",
+      If(d==4,"four",
+        If(d==5,"five",
+          If(d==6,"six",
+            If(d==7,"seven",
+              If(d==8,"eight",
+                If(d==9,"nine","")))))))))
+ Create a text box to show the conversions.
+ f=10c+d
+ If(f==11,"Eleven",
+  If(f==12,"twelve",
+    If(f==13,"thirteen",
+      If(f==14,"fourteen",
+        If(f==15,"fifteen",
+          If(f==16,"sixteen",
+            If(f==17,"seventeen",
+              If(f==18,"eighteen",
+                If(f==19,"nineteen","")))))))))
